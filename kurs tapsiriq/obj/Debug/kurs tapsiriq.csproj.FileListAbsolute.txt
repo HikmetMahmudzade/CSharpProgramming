@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\bin\Debug\kurs tapsiriq.exe.config
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\bin\Debug\kurs tapsiriq.exe
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\bin\Debug\kurs tapsiriq.pdb
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs tapsiriq.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs_tapsiriq.Form1.resources
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs_tapsiriq.Properties.Resources.resources
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs tapsiriq.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs tapsiriq.exe
+C:\Users\Admin\source\repos\kurs tapsiriq\kurs tapsiriq\obj\Debug\kurs tapsiriq.pdb
